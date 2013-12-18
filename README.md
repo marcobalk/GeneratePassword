@@ -1,4 +1,6 @@
-# Generate password plugin for Sublime Text 2
+# Generate password plugin for Sublime Text 3
+
+(This is a fork of [GeneratePassword](https://github.com/mhau/GeneratePassword) that works with Sublime Text 3)
 
 Add generation of passwords in different strengthes to the command palette:
 
