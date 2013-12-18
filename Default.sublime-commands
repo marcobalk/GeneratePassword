@@ -9,7 +9,13 @@
 		"caption": "Generate long password",
 		"command": "generate_long_password"
 	}, {
-		"caption": "Generate secure password",
-		"command": "generate_secure_password"
+		"caption": "Generate short secure password",
+		"command": "generate_short_secure_password"
+	}, {
+		"caption": "Generate medium secure password",
+		"command": "generate_medium_secure_password"
+	}, {
+		"caption": "Generate long secure password",
+		"command": "generate_long_secure_password"
 	}
 ]
