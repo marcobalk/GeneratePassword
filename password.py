@@ -25,6 +25,6 @@ class GenerateLongPasswordCommand(PasswordCommand):
         return randrange(14, 20)
 
 class GenerateSecurePasswordCommand(PasswordCommand):
-    chars = string.letters + string.digits
+    chars = string.ascii_letters + string.digits
     def length(self):
         return randrange(20, 31)
