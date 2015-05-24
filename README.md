@@ -1,6 +1,6 @@
 # Generate password plugin for Sublime Text 3
 
-(This is a fork of [GeneratePassword](https://github.com/mhau/GeneratePassword) that works with Sublime Text 3)
+(This is a fork of [GeneratePassword](https://github.com/iambibhas/GeneratePassword))
 
 Add generation of passwords in different strengthes to the command palette:
 
@@ -10,3 +10,5 @@ Add generation of passwords in different strengthes to the command palette:
 * Generate secure password: all the above lengths with special characters `!@#$%^&*_-+=|/?:;<>~`
 
 Human readable characters are without confusable characters like "0", "O", "1", "l" and so on.
+
+It generates a different password for each cursor/selection you have in Sublime
